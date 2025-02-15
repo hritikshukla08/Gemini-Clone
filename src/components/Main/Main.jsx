@@ -14,7 +14,7 @@ const Main = () => {
             <div className="main-container">
                 {!showResult ? <>
                     <div className="greet">
-                        <p><span>Hello, Muskan</span></p>
+                        <p><span>Hello, Hritik</span></p>
                         <p>How can I help you today?</p>
                     </div>
                     <div className="cards">
